@@ -7,7 +7,7 @@ Fecha: 2020-09-20
 ## Pasos a seguir para iniciar:
 - Instalar dependencias con el comando: npm i
 - Para ejecutar: node app.js
-Esto iniciará un servidor HTTP en el puerto 8001 y como DATA_SERVER (supermercado) http://localhost:8080
+Esto iniciará un servidor HTTP en el puerto 8001 y como DATA_SERVER (supermercado) http://localhost:8000
 - Ejecutar con datos parametrizables:
     - PORT: PUERTO donde queremos que escuche
     - _DATA_URL: URL del servidor de datos (supermercado).
